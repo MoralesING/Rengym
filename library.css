@@ -1,0 +1,142 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header, .iconos {
+    width: 100%;
+    height: auto;
+    justify-content: space-between;
+} 
+
+li {
+    margin-block: 35px;
+}
+
+h1 {
+    margin: 0%;
+    padding-inline: 10px;
+    padding-block-start: 25px;
+
+}
+
+
+
+.dflex{
+    display: flex;
+}
+
+.h-medida{
+    height: 12vh;
+}
+.logH {
+    width: 75px ;
+    height:75px;
+    border-radius: 50%;
+
+}
+
+.linea {
+    background-color: black;
+    
+    height: 5px;
+
+}
+
+.linea2 {
+    background-color: black;
+    width: 5px;
+    height: 87vh;
+
+}
+
+.subc {
+    width: 35vh;
+}
+
+.subc2 {
+    width: 100%;
+
+
+}
+
+.titulo{
+    text-align: center;
+    
+}
+
+.subtitulos {
+    justify-content: space-between;
+    padding-inline: 10%;
+    font-size: x-large;
+}
+
+.portada{
+    width:25%px ;
+    height:200px ;
+    margin-inline: 25px;
+}
+
+.search {
+    justify-content: right;
+
+}
+
+.section {
+    background-color: blueviolet;
+    margin-inline: 2.5%;
+    width: 22%;
+
+}
+
+.cont-section {
+    height: 50%;
+    
+}
+
+.cont-section2 {
+
+    width: 100%;
+    height: 80%;
+    background-color: black;
+
+}
+
+.img-section {
+    height: 70%;
+    width: 100%;
+
+}
+
+.img-section2 {
+
+    height: 33%;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-section2-1 {
+    width: 100%;
+    height: 100%;
+    background-color: aqua;
+}
+
+.img-section2-2 {
+
+    
+}
+
+.cont-img2 {
+    width: 33%;
+    height: 100%;
+    background-color: blue;
+
+}
+
+.img2{
+    width: 40%;
+    height: 85%;
+
+}
